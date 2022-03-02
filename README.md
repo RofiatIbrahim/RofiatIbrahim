@@ -1,8 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning Goggle Data Analytics Course
-📫 How to reach me: Twitter(@rofiatibrahim_o)
-😄 Pronouns: She, her
-⚡ Fun fact: I am very CUTE
+* 🌱 I’m currently learning Goggle Data Analytics Course
+* 📫 How to reach me: Twitter(@rofiatibrahim_o)
+* 😄 Pronouns: She, her
+* ⚡ Fun fact: I am very CUTE
 <!--
 **RofiatIbrahim/RofiatIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
