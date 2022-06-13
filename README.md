@@ -2,7 +2,7 @@
 * 🌱 I’m currently learning Goggle Data Analytics Course and NG 3o Days of Learning
 * 🏫 I'm looking to collaborate on data analysis projects
 * 💬 Ask me about my learning journey
-* 📫 How to reach me: Twitter(@rofiatibrahim_o)
+* 📫 How to reach me: Twitter([@rofiatibrahim_o](https://twitter.com/RofiatIbrahim_o))
 * 👧 Pronouns: She, her
 * ⚡ Fun fact: I am very CUTE
 <!--
